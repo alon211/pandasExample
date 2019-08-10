@@ -1,6 +1,8 @@
 # pandasExample
 pandas下的范例
-http://mybinder.org/user/alon211/pandasExample/master
+
+http://beta.mybinder.org/v2/gh//user/alon211/pandasExample/master
+
 # Python environment with requirements.txt
 
 A Binder-compatible repo with a `requirements.txt` file.
