@@ -1,7 +1,7 @@
 # pandasExample
 pandas下的范例
 
-http://beta.mybinder.org/v2/gh//user/alon211/pandasExample/master
+http://beta.mybinder.org/v2/gh/alon211/pandasExample/master
 
 # Python environment with requirements.txt
 
